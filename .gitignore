@@ -1,3 +1,7 @@
 /.env
 notebook/.ipynb_checkpoints/script-checkpoint.ipynb
 notebook/untitled.txt
+/data/example_data
+/notebook/.ipynb_checkpoints
+notebook/ocr_results.json
+notebook/ocr_results.csv
