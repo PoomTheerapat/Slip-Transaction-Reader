@@ -5,3 +5,6 @@ notebook/untitled.txt
 /notebook/.ipynb_checkpoints
 notebook/ocr_results.json
 notebook/ocr_results.csv
+data/raw/*
+!data/raw/.gitkeep
+GEMINI.md

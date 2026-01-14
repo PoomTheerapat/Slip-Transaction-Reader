@@ -1,0 +1,7 @@
+datetime_ transaction
+account_name
+destination account
+account_number
+transaction_id
+amount
+transfer_fee
