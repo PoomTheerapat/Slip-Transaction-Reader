@@ -6,5 +6,6 @@ notebook/untitled.txt
 notebook/ocr_results.json
 notebook/ocr_results.csv
 data/raw/*
+data/processed/*
 !data/raw/.gitkeep
 GEMINI.md
